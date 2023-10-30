@@ -37,12 +37,16 @@ If you have any questions, please reach out to me at:
 
     email: aleksey.nizhnikov@gmail.com
 
+## Website Link
+
+https://yate-6c6a3e8d8244.herokuapp.com/
+
 ## Screenshots
 
-![YATE main page](assets\YATEscreenshot.png)
+![YATE main page](assets/YATEscreenshot.png)
 
-![YATE gif](assets\Y.A.T.E.gif)
+![YATE gif](assets/Y.A.T.E.gif)
 
-![YATE manifest](assets\YATEmanifest.png)
+![YATE manifest](assets/YATEmanifest.png)
 
-![YATE database](assets\YATEdatabase.png)
+![YATE database](assets/YATEdatabase.png)
